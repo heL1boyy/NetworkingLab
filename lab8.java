@@ -12,7 +12,7 @@ import java.net.http.HttpResponse;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class CustomCookiePolicy {
+public class lab8 {
     public static void main(String[] args) {
         // Create an HttpClient
         HttpClient client = HttpClient.newHttpClient();
